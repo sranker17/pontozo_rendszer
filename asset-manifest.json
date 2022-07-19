@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pontozo_rendszer/static/css/main.e7720ab7.css",
+    "main.js": "/pontozo_rendszer/static/js/main.b9808201.js",
+    "index.html": "/pontozo_rendszer/index.html",
+    "main.e7720ab7.css.map": "/pontozo_rendszer/static/css/main.e7720ab7.css.map",
+    "main.b9808201.js.map": "/pontozo_rendszer/static/js/main.b9808201.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7720ab7.css",
+    "static/js/main.b9808201.js"
+  ]
+}
